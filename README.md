@@ -1,2 +1,2 @@
-I wanted a smaller version of Git for Windows, but MinGit wasn't small enough.
-So I decided to make it even smaller. Thus TinyGit was born/came to life :-)
+TinyGit: a (much) smaller version of (Min)Git for Windows,
+but only usable for cloning, pulling, fetching and merging.
